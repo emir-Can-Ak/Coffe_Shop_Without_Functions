@@ -1,0 +1,4 @@
+﻿  Coffee.c
+C:\Users\emirk\Documents\GitHub\Coffe_Shop\Coffe_Shop\Coffee.c(10,12): warning C4101: 'numara': yerel değişken başvurusu kaldırıldı
+C:\Users\emirk\Documents\GitHub\Coffe_Shop\Coffe_Shop\Coffee.c(10,37): warning C4101: 'deneme': yerel değişken başvurusu kaldırıldı
+  Coffe_Shop.vcxproj -> C:\Users\emirk\Documents\GitHub\Coffe_Shop\x64\Debug\Coffe_Shop.exe
